@@ -1,0 +1,21 @@
+# 가상환경·캐시
+.venv/
+__pycache__/
+*.pyc
+
+# 모델 가중치
+*.pt
+
+# 원본·생성 데이터 (영상, Keypoint CSV, 팀원 촬영본)
+data/
+artifacts/
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+
+# 생성 결과
+reports/**/*.csv
+reports/**/pose_check/

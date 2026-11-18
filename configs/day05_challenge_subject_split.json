@@ -1,0 +1,5 @@
+{
+  "train_subjects": ["S01", "S02"],
+  "val_subjects": ["S03"],
+  "test_subjects": ["S04"]
+}
