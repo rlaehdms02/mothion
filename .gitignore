@@ -19,3 +19,5 @@ artifacts/
 # 생성 결과
 reports/**/*.csv
 reports/**/pose_check/
+models/
+*.task

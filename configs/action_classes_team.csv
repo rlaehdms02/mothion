@@ -1,0 +1,4 @@
+action_id,action_label,type,video_file,description,main_joints,course_action_id
+A001,seated_knee_extension,dynamic,A001_kjh1_1.mp4,의자에 앉아 한쪽씩 무릎을 앞으로 쭉 폈다가 내린다,hip|knee|ankle,A002
+A002,shoulder_reach_up_down,dynamic,A002_kjh1_1.mp4,오른팔을 몸 앞쪽으로 머리 위까지 뻗어 올렸다가 내린다,shoulder|elbow|wrist,A006
+A003,foam_roller_hip_hinge,dynamic,A003_kjh1_1.mp4,폼롤러를 허벅지에 대고 허리를 편 채 엉덩이로 숙였다가 올라온다,shoulder|hip|knee,A001
